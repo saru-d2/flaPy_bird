@@ -1,5 +1,5 @@
 # flaPy_bird
-flappy bird with neat-python
+## Remaking Flappy Bird using Neat-Python
 
 to run with neat, use app.py
 
