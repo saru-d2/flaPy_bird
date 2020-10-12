@@ -6,7 +6,23 @@
 
 ``
 python app.py
+``
+
+or
+
+``
 python3 app.py
 ``
 
-if you just want to play the game, use game.py
+# To play the game
+* use game.py
+
+``
+python game.py
+``
+
+or
+
+``
+python3 game.py
+``
